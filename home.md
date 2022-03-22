@@ -2,7 +2,7 @@
 title: НЕОСФЕРА
 description: 
 published: true
-date: 2022-03-22T15:31:01.532Z
+date: 2022-03-22T15:32:34.570Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-16T09:35:22.472Z
@@ -14,9 +14,18 @@ dateCreated: 2022-03-16T09:35:22.472Z
 #### Первая вкладка
 Содержимое первой вкладки
 #### Вторая вкладка
-Содержимое второй вкладки
+<table border="1">
+    <tr>
+     <td colspan="2">Ячейка 1</td>
+     <td>Ячейка 2</td>
+    </tr>
+    <tr>
+     <td>Ячейка 3</td>
+     <td>Ячейка 4</td>
+    </tr>
+   </table>
 #### Третья вкладка
-<table>
+<table border="1">
 	<tr>
 		<th>Month</th>
 		<th>Savings</th>
