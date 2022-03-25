@@ -2,7 +2,7 @@
 title: НЕОСФЕРА
 description: 
 published: true
-date: 2022-03-25T13:01:56.332Z
+date: 2022-03-25T13:02:58.707Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-16T09:35:22.472Z
@@ -21,7 +21,7 @@ dateCreated: 2022-03-16T09:35:22.472Z
 ## САПР ПОЛИНОМ
 
 ## InterBridge
-![interbridge_плоский.png](/interbridge/interbridge_плоский.png =x50)
+![interbridge_плоский.png](/interbridge/interbridge_плоский.png =400x)
 <details>
   <summary><b>InterBridge. Версия 2020.0.2020.316</b></summary>
   <ul>
