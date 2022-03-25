@@ -2,7 +2,7 @@
 title: НЕОСФЕРА
 description: 
 published: true
-date: 2022-03-25T12:40:22.393Z
+date: 2022-03-25T12:41:24.066Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-16T09:35:22.472Z
@@ -35,7 +35,7 @@ dateCreated: 2022-03-16T09:35:22.472Z
   </ul>
 </details>
 
-<details text-align="justify" padding="1px">
+<details text-align="justify" text-padding="1px">
   <summary><b>InterBridge Pro. Версия 2.6.428</b></summary>
   <b>Изменения</b>
   <ul>
