@@ -2,11 +2,13 @@
 title: НЕОСФЕРА
 description: 
 published: true
-date: 2022-03-25T11:57:20.279Z
+date: 2022-03-25T12:39:04.137Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-16T09:35:22.472Z
 ---
+
+.v-main .page-col-sd > div:nth-child(1) {display:none;}
 
 Информационно-сервисный портал, посвященный программным продуктам НЕОЛАНТ, реализующим технологии комплексного сопровождения жизненного цикла крупных инфраструктурных объектов.
 
@@ -22,7 +24,7 @@ dateCreated: 2022-03-16T09:35:22.472Z
 
 ## InterBridge
 
-<details>
+<details text-align="justify">
   <summary><b>InterBridge. Версия 2020.0.2020.316</b></summary>
   <ul>
     <li>Полином. Реализована поддержка PBS (формирование слоев, атрибуты).</li>
@@ -33,7 +35,7 @@ dateCreated: 2022-03-16T09:35:22.472Z
   </ul>
 </details>
 
-<details>
+<details text-align="justify">
   <summary><b>InterBridge Pro. Версия 2.6.428</b></summary>
   <b>Изменения</b>
   <ul>
