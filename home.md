@@ -2,7 +2,7 @@
 title: НЕОСФЕРА
 description: 
 published: true
-date: 2022-03-25T11:51:08.313Z
+date: 2022-03-25T11:53:44.580Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-16T09:35:22.472Z
@@ -34,7 +34,7 @@ dateCreated: 2022-03-16T09:35:22.472Z
 </details>
 
 <details>
-  <summary>InterBridge Pro. Версия 2.6.428</summary>
+  <summary>InterBridge Pro. Версия 2.6.428 &#9773;</summary>
   <b>Изменения</b>
   <ul>
     <li>#226 - добавлена возможность использования горячих клавиш для перебора коллизий при работе со списком коллизий (предыдущая – CTRL+< / следующая – CTRL+>).</li>
