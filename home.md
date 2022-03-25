@@ -2,13 +2,11 @@
 title: НЕОСФЕРА
 description: 
 published: true
-date: 2022-03-25T12:43:30.104Z
+date: 2022-03-25T12:43:59.412Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-16T09:35:22.472Z
 ---
-
-.v-main .page-col-sd > div:nth-child(1) {display:none;}
 
 Информационно-сервисный портал, посвященный программным продуктам НЕОЛАНТ, реализующим технологии комплексного сопровождения жизненного цикла крупных инфраструктурных объектов.
 
@@ -35,7 +33,7 @@ dateCreated: 2022-03-16T09:35:22.472Z
   </ul>
 </details>
 
-<details text-align="justify" border="none">
+<details>
   <summary><b>InterBridge Pro. Версия 2.6.428</b></summary>
   <b>Изменения</b>
   <ul>
