@@ -2,14 +2,16 @@
 title: НЕОСФЕРА
 description: 
 published: true
-date: 2022-03-25T12:47:05.543Z
+date: 2022-03-25T12:47:59.612Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-16T09:35:22.472Z
 ---
 
 <style>
-  .v-main .page-col-sd > div:nth-child(1) {display:none;}
+  .v-main .page-col-sd > div:nth-child(1) {
+    display:none;
+  }
 </style>
 Информационно-сервисный портал, посвященный программным продуктам НЕОЛАНТ, реализующим технологии комплексного сопровождения жизненного цикла крупных инфраструктурных объектов.
 
