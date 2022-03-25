@@ -2,7 +2,7 @@
 title: НЕОСФЕРА
 description: 
 published: true
-date: 2022-03-25T11:56:28.356Z
+date: 2022-03-25T11:57:20.279Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-16T09:35:22.472Z
@@ -23,7 +23,7 @@ dateCreated: 2022-03-16T09:35:22.472Z
 ## InterBridge
 
 <details>
-  <summary>InterBridge. Версия 2020.0.2020.316</summary>
+  <summary><b>InterBridge. Версия 2020.0.2020.316</b></summary>
   <ul>
     <li>Полином. Реализована поддержка PBS (формирование слоев, атрибуты).</li>
     <li>Компас. Добавлена поддержка версии 20.</li>
@@ -34,7 +34,7 @@ dateCreated: 2022-03-16T09:35:22.472Z
 </details>
 
 <details>
-  <summary>InterBridge Pro. Версия 2.6.428</summary>
+  <summary><b>InterBridge Pro. Версия 2.6.428</b></summary>
   <b>Изменения</b>
   <ul>
     <li>#226 - добавлена возможность использования горячих клавиш для перебора коллизий при работе со списком коллизий (предыдущая – CTRL+< / следующая – CTRL+>).</li>
